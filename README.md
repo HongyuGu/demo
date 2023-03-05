@@ -3,8 +3,5 @@ some description!
 
 ## Subheader
 
-Description from Linu
+Description from Linux
 
-## Local Development
-
-1. Open...x
